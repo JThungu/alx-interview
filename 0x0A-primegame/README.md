@@ -1,10 +1,6 @@
 0x0A. Prime Game
 ================
 
-AlgorithmPython
-
--   By: Dev Nderitu
-
 Requirements
 ------------
 
